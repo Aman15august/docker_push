@@ -1,7 +1,7 @@
  
  
  # Use the official Node.js 14 image as a parent image
-FROM 18
+FROM node:14
 
 # Set the working directory in the container
 WORKDIR /app
